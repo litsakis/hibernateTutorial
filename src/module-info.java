@@ -6,4 +6,5 @@
  *
  */
 module hibernateΤutorial {
+	requires java.sql;
 }
