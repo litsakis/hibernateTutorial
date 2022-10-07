@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author chief
+ *
+ */
+module hibernateΤutorial {
+}
